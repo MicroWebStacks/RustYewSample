@@ -24,6 +24,12 @@ testing Yew App
 ```
 trunk serve
 ```
+build
+```
+trunk build
+```
+patch
 
+* renamed `dist` to `docs` and appended basepath `/RustYewSample` in `index.html`
 # Live Demo
 https://microwebstacks.github.io/RustYewSample/
